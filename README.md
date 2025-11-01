@@ -75,6 +75,19 @@
 
 <br>
 
+## Demo / Screenshot
+
+<table>
+  <tr>
+    <td><img src="src/assets/sc1.jpg" width="150" alt="Screenshot 1"></td>
+    <td><img src="src/assets/sc2.jpg" width="150" alt="Screenshot 2"></td>
+    <td><img src="src/assets/sc3.jpg" width="150" alt="Screenshot 3"></td>
+    <td><img src="src/assets/sc4.jpg" width="150" alt="Screenshot 4"></td>
+  </tr>
+</table>
+
+<br>
+
 ## ⚡ Quick Start / Installation
 
 > [!NOTE]
