@@ -56,19 +56,19 @@
 
 <table>
   <tr>
-    <td width="40"><img src="src/assets/youtube.png" width="40" alt="YouTube"></td>
+    <td width="40"><img src="src/assets/youtube.png" width="60" alt="YouTube"></td>
     <td style="font-size:16px;"><strong>YouTube Downloader</strong> – Download YouTube videos directly via WhatsApp</td>
   </tr>
   <tr>
-    <td><img src="src/assets/facebook.png" width="40" alt="Facebook"></td>
+    <td><img src="src/assets/facebook.png" width="60" alt="Facebook"></td>
     <td style="font-size:16px;"><strong>Facebook Downloader</strong> – Download videos from Facebook links</td>
   </tr>
   <tr>
-    <td><img src="src/assets/instagram.png" width="40" alt="Instagram"></td>
+    <td><img src="src/assets/instagram.png" width="60" alt="Instagram"></td>
     <td style="font-size:16px;"><strong>Instagram Downloader</strong> – Download Instagram media easily</td>
   </tr>
   <tr>
-    <td><img src="src/assets/tiktok.png" width="40" alt="TikTok"></td>
+    <td><img src="src/assets/tiktok.png" width="60" alt="TikTok"></td>
     <td style="font-size:16px;"><strong>TikTok Downloader</strong> – Download TikTok videos without watermark</td>
   </tr>
 </table>
