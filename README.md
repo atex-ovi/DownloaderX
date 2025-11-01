@@ -206,9 +206,10 @@ DownloaderX/
 
 <br>
 
-## Donations
-Support the bot development via [Saweria](https://saweria.co/atexovi)
+## Support & Donations
+If you find this project useful, consider supporting the development:
 
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://saweria.co/atexovi)
 <br>
 
 ## License
