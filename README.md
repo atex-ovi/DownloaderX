@@ -54,10 +54,24 @@
 
 ## Features
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="20"/> **YouTube Downloader** – Download YouTube videos directly via WhatsApp.
-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" width="20"/> **Facebook Downloader** – Download videos from Facebook links.
-- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="20"/> **Instagram Downloader** – Download Instagram media easily.
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/TikTok_logo.png" width="20"/> **TikTok Downloader** – Download TikTok videos without watermark.
+<table>
+  <tr>
+    <td width="40"><img src="src/assets/youtube.png" width="40" alt="YouTube"></td>
+    <td style="font-size:16px;"><strong>YouTube Downloader</strong> – Download YouTube videos directly via WhatsApp</td>
+  </tr>
+  <tr>
+    <td><img src="src/assets/facebook.png" width="40" alt="Facebook"></td>
+    <td style="font-size:16px;"><strong>Facebook Downloader</strong> – Download videos from Facebook links</td>
+  </tr>
+  <tr>
+    <td><img src="src/assets/instagram.png" width="40" alt="Instagram"></td>
+    <td style="font-size:16px;"><strong>Instagram Downloader</strong> – Download Instagram media easily</td>
+  </tr>
+  <tr>
+    <td><img src="src/assets/tiktok.png" width="40" alt="TikTok"></td>
+    <td style="font-size:16px;"><strong>TikTok Downloader</strong> – Download TikTok videos without watermark</td>
+  </tr>
+</table>
 
 <br>
 
@@ -99,7 +113,26 @@ pkg install nodejs git
 
 ```bash
 git clone https://github.com/atex-ovi/DownloaderX.git
-cd DownloaderX
+cd Downlo## Features
+
+<table>
+  <tr>
+    <td width="40"><img src="src/assets/youtube.png" width="32" alt="YouTube"></td>
+    <td><strong>YouTube Downloader</strong> – Download YouTube videos directly via WhatsApp</td>
+  </tr>
+  <tr>
+    <td><img src="src/assets/facebook.png" width="32" alt="Facebook"></td>
+    <td><strong>Facebook Downloader</strong> – Download videos from Facebook links</td>
+  </tr>
+  <tr>
+    <td><img src="src/assets/instagram.png" width="32" alt="Instagram"></td>
+    <td><strong>Instagram Downloader</strong> – Download Instagram media easily</td>
+  </tr>
+  <tr>
+    <td><img src="src/assets/tiktok.png" width="32" alt="TikTok"></td>
+    <td><strong>TikTok Downloader</strong> – Download TikTok videos without watermark</td>
+  </tr>
+</table>aderX
 ```
 
 3. Install Node.js dependencies:
