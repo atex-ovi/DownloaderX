@@ -1,0 +1,9 @@
+# Node dependencies
+node_modules/
+
+# WhatsApp session folder
+session/
+
+# Optional OS files
+.DS_Store
+Thumbs.db
