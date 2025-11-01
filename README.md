@@ -77,7 +77,8 @@
 
 ## ⚡ Quick Start / Installation
 
-Follow these instructions to set up **DownloaderX** on Termux (Android), Windows, or Linux.
+> [!NOTE]
+> Follow these instructions to set up **DownloaderX** on Termux (Android), Windows, or Linux.
 
 <br>
 
@@ -99,6 +100,7 @@ Before installing, make sure your system has:
   ```
 - Stable internet connection.
 
+<br>
 
 ### 📱 Termux (Android)
 
@@ -128,8 +130,10 @@ npm install
 npm start
 ```
 
-Follow the pairing code that appears in the terminal to connect WhatsApp.
+> [!TIP]
+> Follow the pairing code that appears in the terminal to connect WhatsApp.
 
+<br>
 
 ### 🖥️ Windows / Linux
 
