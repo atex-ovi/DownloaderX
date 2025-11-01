@@ -54,13 +54,10 @@
 
 ## Features
 
-- 🎬 **YouTube Downloader** – Download YouTube videos directly via WhatsApp.
-- 📘 **Facebook Downloader** – Download videos from Facebook links.
-- 📸 **Instagram Downloader** – Download Instagram media easily.
-- 🎵 **TikTok Downloader** – Download TikTok videos without watermark.
-- ✅ Interactive list menus and quick reply buttons.
-- 📌 Lightweight and simple setup.
-- ⚡ Optional image/video features using Jimp.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="20"/> **YouTube Downloader** – Download YouTube videos directly via WhatsApp.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" width="20"/> **Facebook Downloader** – Download videos from Facebook links.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="20"/> **Instagram Downloader** – Download Instagram media easily.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/TikTok_logo.png" width="20"/> **TikTok Downloader** – Download TikTok videos without watermark.
 
 <br>
 
@@ -146,7 +143,8 @@ npm install
 npm start
 ```
 
-> **Note:** The `session/` folder will be created automatically to store authentication. Always follow the pairing code instructions in the terminal.
+> [!NOTE]
+> The `session/` folder will be created automatically to store authentication. Always follow the pairing code instructions in the terminal.
 
 <br>
 
@@ -174,17 +172,17 @@ DownloaderX/
         └── validateUrl.js   # URL validation utility
 ```
 
-> **Tip:** You can customize each feature module or add new downloaders by following the existing module pattern.
+> [!TIP]
+> You can customize each feature module or add new downloaders by following the existing module pattern.
 
 <br>
 
-## Disclaimer
-
-WhatsApp is a trademark of WhatsApp Inc.
-
-This bot uses the [**atexovi-baileys**](https://www.npmjs.com/package/atexovi-baileys) library, which is open-source and unofficial.
-
-Use this bot at your own risk and avoid spam or abuse.
+> [!CAUTION]
+> WhatsApp is a trademark of WhatsApp Inc.
+> 
+> This bot uses the [**atexovi-baileys**](https://www.npmjs.com/package/atexovi-baileys) library, which is open-source and unofficial.
+> 
+> Use this bot at your own risk and avoid spam or abuse.
 
 <br>
 
