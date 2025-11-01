@@ -192,7 +192,7 @@ DownloaderX/
 > [!TIP]
 > You can customize each feature module or add new downloaders by following the existing module pattern.
 
-<br>
+<br><br>
 
 > [!CAUTION]
 > WhatsApp is a trademark of WhatsApp Inc.
