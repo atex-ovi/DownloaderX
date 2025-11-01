@@ -43,6 +43,10 @@
 <br>
 
 <p align="center">
+  <img src="src/assets/banner.png" alt="DownloaderX Banner" width="100%">
+</p>
+
+<p align="center">
   <strong style="font-size:24px;">
     DownloaderX is an interactive WhatsApp bot based on 
     <a href="https://www.npmjs.com/package/atexovi-baileys">atexovi-baileys</a>. 
