@@ -183,37 +183,35 @@ npm start
 <br>
 
 ## 📌 Compatibility
+## 📌 Compatibility
 
-<div style="width: 100%; overflow-x: auto;">
-  <table style="width: 100%; border-collapse: collapse;">
+<table>
+  <thead>
     <tr>
-      <th style="width: 30%; text-align: left; padding: 8px;">Platform</th>
-      <th style="width: 15%; text-align: left; padding: 8px;">Status</th>
-      <th style="width: 55%; text-align: left; padding: 8px;">Notes / Recommendation</th>
+      <th style="text-align:left;">Platform</th>
+      <th style="text-align:center;">Status</th>
+      <th style="text-align:left;">Notes / Recommendation</th>
     </tr>
+  </thead>
+  <tbody>
     <tr>
-      <td style="padding: 8px;">
-        <div style="display: flex; align-items: center; gap: 8px;">
-          <img src="src/assets/whatsapp_messenger.png" width="24" alt="WhatsApp Messenger" />
-          <span>WhatsApp Messenger</span>
-        </div>
+      <td>
+        <img src="src/assets/whatsapp_messenger.png" width="30" alt="WhatsApp Messenger" style="vertical-align:middle; margin-right:8px;">
+        WA Messenger
       </td>
-      <td style="padding: 8px;">✅ Stable</td>
-      <td style="padding: 8px;">Recommended for clean usage, no extra logs</td>
+      <td style="text-align:center;">✅ Stable</td>
+      <td>Recommended for clean usage, no extra logs</td>
     </tr>
     <tr>
-      <td style="padding: 8px;">
-        <div style="display: flex; align-items: center; gap: 8px;">
-          <img src="src/assets/whatsapp_bussines.png" width="24" alt="WhatsApp Business" />
-          <span>WhatsApp Business</span>
-        </div>
+      <td>
+        <img src="src/assets/whatsapp_bussines.png" width="30" alt="WhatsApp Business" style="vertical-align:middle; margin-right:8px;">
+        WA Business
       </td>
-      <td style="padding: 8px;">⚠️ Works normally</td>
-      <td style="padding: 8px;">May display internal session logs</td>
+      <td style="text-align:center;">⚠️ Works normally</td>
+      <td>May display internal session/debug logs</td>
     </tr>
-  </table>
-</div>
-
+  </tbody>
+</table>
 
 <br>
 
