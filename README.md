@@ -182,8 +182,6 @@ npm start
 
 <br>
 
-## 📌 Compatibility
-
 <table>
   <tr>
     <th style="width:300px; text-align:left;">Platform</th>
@@ -191,9 +189,9 @@ npm start
     <th style="width:400px; text-align:left;">Notes / Recommendation</th>
   </tr>
   <tr>
-    <td style="min-width:300px;">
+    <td>
       <div style="display:flex; align-items:center; gap:8px;">
-        <img src="src/assets/whatsapp_messenger.png" width="24" alt="WhatsApp Messenger" />
+        <img src="src/assets/whatsapp_messanger.png" width="24" alt="WhatsApp Messenger">
         <span>WhatsApp Messenger</span>
       </div>
     </td>
@@ -201,9 +199,9 @@ npm start
     <td>Recommended for clean usage, no extra logs</td>
   </tr>
   <tr>
-    <td style="min-width:300px;">
+    <td>
       <div style="display:flex; align-items:center; gap:8px;">
-        <img src="src/assets/whatsapp_bussines.png" width="24" alt="WhatsApp Business" />
+        <img src="src/assets/whatsapp_bussines.png" width="24" alt="WhatsApp Business">
         <span>WhatsApp Business</span>
       </div>
     </td>
