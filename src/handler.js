@@ -1,7 +1,7 @@
 // src/handler.js
 
 /* WADUH... MAU NGAPAIN BANG?
-MINIMAL KALAU MAU PAKE FOLLOW DAN KASIH STAR!
+KALAU MAU PAKE, MINIMAL FOLLOW DAN KASIH STAR!
 https://github.com/atex-ovi
 */
 
