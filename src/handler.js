@@ -140,7 +140,7 @@ export async function sendDownloaderMenu(sock, from) {
   await sock.sendMessage(from, {
     image: fs.readFileSync(menuImagePath),
     caption: '',
-    footer: '© Atex Ovi 2025',
+    footer: '© 2025 Atex Ovi | MIT License',
     interactiveButtons: [
       {
         name: 'single_select',
