@@ -184,10 +184,23 @@ npm start
 
 ## 📌 Compatibility
 
-| Platform | Status | Notes / Recommendation |
-|----------|--------|------------------------|
-| <img src="src/assets/whatsapp_messenger.png" width="20"/>  WhatsApp Messenger | ✅ Stable | Recommended for clean usage, no extra logs |
-| <img src="src/assets/whatsapp_bussines.png" width="20"/>  WhatsApp Business | ⚠️ Works normally | May display internal session/debug logs |
+<table>
+  <tr>
+    <th style="width:220px">Platform</th>
+    <th style="width:100px">Status</th>
+    <th style="width:400px">Notes / Recommendation</th>
+  </tr>
+  <tr>
+    <td><img src="src/assets/whatsapp_messenger.png" width="20"/> WhatsApp Messenger</td>
+    <td>✅ Stable</td>
+    <td>Recommended for clean usage, no extra logs</td>
+  </tr>
+  <tr>
+    <td><img src="src/assets/whatsapp_bussines.png" width="20"/> WhatsApp Business</td>
+    <td>⚠️ Works normally</td>
+    <td>May display internal session/debug logs</td>
+  </tr>
+</table>
 
 <br>
 
