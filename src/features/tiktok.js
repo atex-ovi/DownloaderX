@@ -37,7 +37,7 @@ export async function handleTikTokDownloader(sock, from, url) {
     const resolvedUrl = await resolveTikTokUrl(url);
     await ytdlpExec(resolvedUrl, {
       output: tempFile,
-      format: "mp4",
+      format: "bv*[height<=1080]+ba/bv*+ba/best",
       quiet: true,
       noWarnings: true,
       preferFreeFormats: true,
