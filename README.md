@@ -186,7 +186,7 @@ npm start
 
 <table>
   <tr>
-    <th style="width:220px">Platform</th>
+    <th style="width:200px">Platform</th>
     <th style="width:100px">Status</th>
     <th style="width:400px">Notes / Recommendation</th>
   </tr>
