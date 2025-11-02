@@ -186,20 +186,26 @@ npm start
 
 <table>
   <tr>
-    <th style="width:250px; text-align:left;">Platform</th>
+    <th style="width:300px; text-align:left;">Platform</th>
     <th style="width:120px; text-align:left;">Status</th>
     <th style="width:400px; text-align:left;">Notes / Recommendation</th>
   </tr>
   <tr>
-    <td style="white-space: nowrap;">
-      <img src="src/assets/whatsapp_messenger.png" width="24" style="vertical-align:middle; margin-right:8px;"/> WhatsApp Messenger
+    <td style="min-width:300px;">
+      <div style="display:flex; align-items:center; gap:8px;">
+        <img src="src/assets/whatsapp_messenger.png" width="24" alt="WhatsApp Messenger" />
+        <span>WhatsApp Messenger</span>
+      </div>
     </td>
     <td>✅ Stable</td>
     <td>Recommended for clean usage, no extra logs</td>
   </tr>
   <tr>
-    <td style="white-space: nowrap;">
-      <img src="src/assets/whatsapp_bussines.png" width="24" style="vertical-align:middle; margin-right:8px;"/> WhatsApp Business
+    <td style="min-width:300px;">
+      <div style="display:flex; align-items:center; gap:8px;">
+        <img src="src/assets/whatsapp_bussines.png" width="24" alt="WhatsApp Business" />
+        <span>WhatsApp Business</span>
+      </div>
     </td>
     <td>⚠️ Works normally</td>
     <td>May display internal session/debug logs</td>
