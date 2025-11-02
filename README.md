@@ -61,19 +61,19 @@
 <table>
   <tr>
     <td width="40"><img src="src/assets/youtube.png" width="40" alt="YouTube"></td>
-    <td style="font-size:16px;"><strong>YouTube Downloader</strong> – Download YouTube videos directly via WhatsApp</td>
+    <td style="font-size:20px;"><strong>YouTube Downloader</strong> – Download YouTube videos directly via WhatsApp</td>
   </tr>
   <tr>
     <td><img src="src/assets/facebook.png" width="40" alt="Facebook"></td>
-    <td style="font-size:16px;"><strong>Facebook Downloader</strong> – Download videos from Facebook links</td>
+    <td style="font-size:20px;"><strong>Facebook Downloader</strong> – Download videos from Facebook links</td>
   </tr>
   <tr>
     <td><img src="src/assets/instagram.png" width="40" alt="Instagram"></td>
-    <td style="font-size:16px;"><strong>Instagram Downloader</strong> – Download Instagram media easily</td>
+    <td style="font-size:20px;"><strong>Instagram Downloader</strong> – Download Instagram media easily</td>
   </tr>
   <tr>
     <td><img src="src/assets/tiktok.png" width="40" alt="TikTok"></td>
-    <td style="font-size:16px;"><strong>TikTok Downloader</strong> – Download TikTok videos without watermark</td>
+    <td style="font-size:20px;"><strong>TikTok Downloader</strong> – Download TikTok videos without watermark</td>
   </tr>
 </table>
 
@@ -186,8 +186,8 @@ npm start
 
 | Platform | Status | Notes / Recommendation |
 |----------|--------|------------------------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="20"/> WhatsApp Messenger | ✅ Stable | Recommended for clean usage, no extra logs |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/WhatsApp_Business_Logo.svg/32px-WhatsApp_Business_Logo.svg.png" width="20"/> WhatsApp Business | ⚠️ Works normally | May display internal session/debug logs |
+| <img src="src/assets/whatsapp_messenger.png" width="20"/>  WhatsApp Messenger | ✅ Stable | Recommended for clean usage, no extra logs |
+| <img src="src/assets/whatsapp_bussines.png" width="20"/>  WhatsApp Business | ⚠️ Works normally | May display internal session/debug logs |
 
 <br>
 
