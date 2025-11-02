@@ -183,7 +183,6 @@ npm start
 <br>
 
 ## 📌 Compatibility
-## 📌 Compatibility
 
 <table>
   <thead>
@@ -197,7 +196,7 @@ npm start
     <tr>
       <td>
         <img src="src/assets/whatsapp_messenger.png" width="30" alt="WhatsApp Messenger" style="vertical-align:middle; margin-right:8px;">
-        WA Messenger
+        WhatsApp Messenger
       </td>
       <td style="text-align:center;">✅ Stable</td>
       <td>Recommended for clean usage, no extra logs</td>
@@ -205,7 +204,7 @@ npm start
     <tr>
       <td>
         <img src="src/assets/whatsapp_bussines.png" width="30" alt="WhatsApp Business" style="vertical-align:middle; margin-right:8px;">
-        WA Business
+        WhatsApp Business
       </td>
       <td style="text-align:center;">⚠️ Works normally</td>
       <td>May display internal session/debug logs</td>
