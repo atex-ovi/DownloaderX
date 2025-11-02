@@ -1,8 +1,8 @@
-# Security Policy - Wabase Button
+# Security Policy - DownloaderX
 
 ## Supported Versions
 
-This table shows which versions of **wabase-button** are currently supported with security updates:
+This table shows which versions of **DownloaderX** are currently supported with security updates:
 
 | Version | Supported |
 |---------|-----------|
@@ -13,7 +13,7 @@ This table shows which versions of **wabase-button** are currently supported wit
 
 ## Reporting a Vulnerability
 
-If you discover a security issue in **wabase-button**, please report it responsibly.  
+If you discover a security issue in **DownloaderX**, please report it responsibly.  
 
 ### Preferred Method
 - **GitHub Issues (Recommended)**  
