@@ -1,2 +1,2 @@
-// Map global untuk menyimpan state tiap user
+// src/userState.js
 export const userState = new Map();
