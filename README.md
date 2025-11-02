@@ -182,6 +182,15 @@ npm start
 
 <br>
 
+## 📌 Compatibility
+
+| Platform | Status | Notes / Recommendation |
+|----------|--------|------------------------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="20"/> WhatsApp Messenger | ✅ Stable | Recommended for clean usage, no extra logs |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/WhatsApp_Business_Logo.svg/32px-WhatsApp_Business_Logo.svg.png" width="20"/> WhatsApp Business | ⚠️ Works normally | May display internal session/debug logs |
+
+<br>
+
 ## 📂 Directory Structure
 
 ```
