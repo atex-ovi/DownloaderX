@@ -17,7 +17,7 @@ If you discover a security issue in **DownloaderX**, please report it responsibl
 
 ### Preferred Method
 - **GitHub Issues (Recommended)**  
-  [Create a security issue](https://github.com/atex-ovi/wabase-button/issues/new/choose)
+  [Create a security issue](https://github.com/atex-ovi/DownloaderX/issues/new/choose)
 
 ### Alternative Contact:
 - [![Telegram](https://img.shields.io/badge/-Telegram-29A9EB?style=flat-square&logo=telegram&logoColor=white)](https://t.me/atexovi)  
