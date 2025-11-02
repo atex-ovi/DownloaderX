@@ -196,33 +196,10 @@ npm start
 
 ## 📌 Compatibility
 
-<table>
-  <thead>
-    <tr>
-      <th>Platform</th>
-      <th>Status</th>
-      <th>Notes / Recommendation</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <img src="src/assets/whatsapp_messenger.png" width="24" style="vertical-align: middle; margin-right: 6px;">
-        Messenger
-      </td>
-      <td>🟢 <strong>Stable</strong></td>
-      <td>Recommended for clean usage, no extra logs</td>
-    </tr>
-    <tr>
-      <td>
-        <img src="src/assets/whatsapp_bussines.png" width="24" style="vertical-align: middle; margin-right: 6px;">
-        Business
-      </td>
-      <td>🟠 <em>Works normally</em></td>
-      <td>May display internal session/debug logs</td>
-    </tr>
-  </tbody>
-</table>
+| Platform | Status | Notes / Recommendation |
+|-----------|---------|-----------------------|
+| <span><img src="src/assets/whatsapp_messenger.png" width="24" align="center"> Messenger</span> | 🟢 **Stable** | Recommended for clean usage, no extra logs |
+| <span><img src="src/assets/whatsapp_bussines.png" width="24" align="center"> Business</span> | 🟠 _Works normally_ | May display internal session/debug logs |
 
 <br>
 
