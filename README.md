@@ -198,8 +198,8 @@ npm start
 
 | Platform | Status | Notes / Recommendation |
 |-----------|---------|-----------------------|
-| <span><img src="src/assets/whatsapp_messenger.png" width="24" align="center"> Messenger</span> | 🟢 **Stable** | Recommended for clean usage, no extra logs |
-| <span><img src="src/assets/whatsapp_bussines.png" width="24" align="center"> Business</span> | 🟠 _Works normally_ | May display internal session/debug logs |
+| <span><img src="src/assets/whatsapp_messenger.png" width="24" align="center"> WhatsApp Messenger</span> | 🟢 **Stable** | Recommended for clean usage, no extra logs |
+| <span><img src="src/assets/whatsapp_bussines.png" width="24" align="center"> WhatsApp Business</span> | 🟠 _Works normally_ | May display internal session/debug logs |
 
 <br>
 
