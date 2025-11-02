@@ -92,7 +92,7 @@
 
 <br>
 
-## ⚡ Quick Start / Installation
+## 📦 Installation
 
 > [!NOTE]
 > Follow these instructions to set up **DownloaderX** on Termux (Android), Windows, or Linux.
@@ -147,9 +147,6 @@ npm install
 npm start
 ```
 
-> [!TIP]
-> Follow the pairing code that appears in the terminal to connect WhatsApp.
-
 <br>
 
 ### 🖥️ Windows / Linux
@@ -179,6 +176,21 @@ npm start
 
 > [!NOTE]
 > The `session/` folder will be created automatically to store authentication. Always follow the pairing code instructions in the terminal.
+
+<br>
+
+### ⚡ Quick Start (***Fast Alternative***)
+If you already have Node.js (v20+) and Git, just run:
+
+```bash
+git clone https://github.com/atex-ovi/DownloaderX.git
+cd DownloaderX
+npm install
+npm start
+
+```
+> [!TIP]
+> Follow the pairing code that appears in the terminal to connect WhatsApp.
 
 <br>
 
