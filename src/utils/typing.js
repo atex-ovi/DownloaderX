@@ -1,11 +1,4 @@
-/**
- * utils/typing.js
- * ------------------------------------------------------------
- * Wraps the sendMessage method so that all messages sent
-* automatically display the "typing..." status before sending.
- * ------------------------------------------------------------
- */
-
+// utils/typing.js
 export function wrapSendMessageGlobally(sock) {
   const originalSendMessage = sock.sendMessage.bind(sock);
 
