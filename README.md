@@ -199,7 +199,7 @@ npm start
 | Platform | Status | Notes / Recommendation |
 |-----------|---------|-----------------------|
 | <span><img src="src/assets/whatsapp_messenger.png" width="20" align="center"> WhatsApp Messenger</span> | 🟢 **Stable** | Recommended for clean usage, no extra logs |
-| <span><img src="src/assets/whatsapp_bussines.png" width="20" align="center"> WhatsApp Business</span> | 🟠 _Works normally_ | May display internal session/debug logs |
+| <span><img src="src/assets/whatsapp_business.png" width="20" align="center"> WhatsApp Business</span> | 🟠 _Works normally_ | May display internal session/debug logs |
 
 <br>
 
