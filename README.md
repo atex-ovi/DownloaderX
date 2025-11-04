@@ -92,7 +92,7 @@
 
 <br>
 
-## 📦 Installation
+## 🧰 Installation
 
 > [!NOTE]
 > Follow these instructions to set up **DownloaderX** on **[Termux](https://termux.dev/en/)** (Android), Windows, or Linux.
