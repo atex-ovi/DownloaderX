@@ -9,11 +9,11 @@ const __dirname = dirname(__filename);
 
 export async function handleFacebookDownloader(sock, from, url) {
   if (!url.startsWith('http')) {
-    await sock.sendMessage(from, { text: '❌ URL tidak valid' });
+    await sock.sendMessage(from, { text: '❌ Invalid URL' });
     return;
   }
 
-  await sock.sendMessage(from, { text: '📥 Mengunduh video Facebook...' });
+  await sock.sendMessage(from, { text: '📥 Download Facebook videos...' });
 
   const tempFile = `${__dirname}/tmp_fb.mp4`;
 
@@ -22,13 +22,13 @@ export async function handleFacebookDownloader(sock, from, url) {
 
     await sock.sendMessage(from, {
       video: fs.readFileSync(tempFile),
-      mimetype: 'video/mp4',
+      mimetype: 'video/mp4',Invalid URL
       caption: '📹 Facebook Video',
     });
 
     fs.unlinkSync(tempFile);
   } catch (err) {
     console.error(err);
-    await sock.sendMessage(from, { text: '❌ Gagal mengunduh video Facebook' });
+    await sock.sendMessage(from, { text: '❌ Failed to download Facebook videos' });
   }
 }
