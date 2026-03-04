@@ -251,4 +251,4 @@ If you find this project useful, consider supporting the development:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT](LICENSE).
