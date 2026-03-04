@@ -18,20 +18,20 @@ async function resolveTikTokUrl(url) {
     });
     return response.request.res.responseUrl || url;
   } catch (err) {
-    console.error("❌ Gagal resolve TikTok URL:", err.message);
+    console.error("❌ Failed to resolve TikTok URL:", err.message);
     return url;
   }
 }
 
 export async function handleTikTokDownloader(sock, from, url) {
   if (!url.startsWith("http")) {
-    await sock.sendMessage(from, { text: "❌ URL tidak valid" });
+    await sock.sendMessage(from, { text: "❌ Invalid URL" });
     return;
   }
 
-  await sock.sendMessage(from, { text: "📥 Mengunduh video TikTok..." });
+  await sock.sendMessage(from, { text: "📥 Downloading TikTok videos..." });
 
-  const tempFile = `${__dirname}/tmp_tt.mp4`;
+  const tempFile = `${__dirname}/tmp_tt.mp4`;Failed to resolve TikTok URL
 
   try {
     const resolvedUrl = await resolveTikTokUrl(url);
@@ -51,9 +51,9 @@ export async function handleTikTokDownloader(sock, from, url) {
 
     fs.unlinkSync(tempFile);
   } catch (err) {
-    console.error("❌ Error saat mengunduh TikTok:", err);
+    console.error("❌ Error while downloading TikTok:", err);
     await sock.sendMessage(from, {
-      text: "❌ Gagal mengunduh video TikTok. Coba lagi dengan link lain.",
+      text: "❌ Failed to download TikTok video. Please try again with another link..",
     });
   }
 }
